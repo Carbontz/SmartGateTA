@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">SmartGateTA</string>
+    <string name="Insert_Email">Input E-Mail Here</string>
+    <string name="Insert_Password">Input Password Here</string>
+    <string name="Insert_Nama">Input Nama</string>
+    <string name="IdStatus">Id Status</string>
+    <string name="Nama">Nama</string>
+    <string name="Email">E-Mail</string>
+    <string name="Waktu">Waktu</string>
+    <string name="Foto">Foto</string>
+    <string name="Status">Status</string>
+    <string name="Password">Password</string>
+    <string name="Input_Foto">Input Foto</string>
+    <string name="Autentikasi_Foto">Autentikasi Foto</string>
+    <string name="Autentikasi">Autentikasi</string>
+    <string name="Register">Register</string>
+    <string name="buka_gerbang">Buka Gerbang</string>
+    <string name="tutup_gerbang">Tutup Gerbang</string>
+    <string name="daftar_baru">Daftar Baru</string>
+    <string name="log_out">Log Out</string>
+    <string name="selamat_datang">Selamat Datang,</string>
+    <string name="Titik_dua">:</string>
+    <string name="titik_titik">............</string>
+    <string name="Riwayat">Riwayat</string>
+    <string name="log_in">Login</string>
+    <string name="status_gerbang">Status Gerbang</string>
+    <string name="terbuka">Terbuka</string>
+    <string name="tertutup">Tertutup</string>
+
+</resources>
